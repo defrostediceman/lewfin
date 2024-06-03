@@ -79,3 +79,11 @@ This provides users a method of verifying the image.
     ```
 
 4. Commit the `cosign.pub` file into your git repository
+
+# Resources
+
+Currently this is abit all over the place as it looks like Bluefin are changing up their approach to buildings images. I've founded these resources so far.
+
+[UBlue Discourse](https://universal-blue.discourse.group/t/fork-your-own-image/43)
+[Blue Build](https://blue-build.org/) << this might result in scrapping this repo and starting fresh.
+
